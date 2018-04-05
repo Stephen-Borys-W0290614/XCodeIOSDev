@@ -1,7 +1,7 @@
 //
 //  main.swift
 
-//Stephen Sucksdsadasdasdasdas
+//Simple Hello World Program!
 
 import Foundation
 
